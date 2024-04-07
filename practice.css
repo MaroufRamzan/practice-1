@@ -1,0 +1,27 @@
+/* div{
+    background-color: #07090a;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none ;
+    color: aqua;
+}
+li{
+    list-style-type: none;
+    display: inline;
+} */
+.navbar{
+    background-color: rgb(13, 13, 13);
+    display: flex;
+    justify-content: space-evenly;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style-type: none;
+    background-color: #fb1014;
+}

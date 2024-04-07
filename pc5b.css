@@ -1,0 +1,13 @@
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: #0e0d0d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 200px;
+    width: 200px;
+    background-color: #f8f7f7;
+}
